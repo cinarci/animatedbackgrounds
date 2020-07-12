@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+
+    //Burada ekranda oluşan gradientın ana renklerini belirliyoruz.
+    <color name="basrenk">#00BCD4</color>
+    <color name="ortarenk">#3F51B5</color>
+    <color name="sonrenk">#A727B0</color>
+    <color name="Seffafrenk">#00ffffff</color>
+
+</resources>
